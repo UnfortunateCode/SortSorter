@@ -41,7 +41,8 @@ public class SortSorter {
 													   CocktailShakerSort.class,
 													   OddEvenSort.class,
 													   CombSort.class,
-													   GnomeSort.class
+													   GnomeSort.class,
+													   QuickSort.class
 										};
 		SortStructure<Integer>[][] allSorts = new SortStructure[classes.length][numTests];
 		
